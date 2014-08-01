@@ -1,5 +1,7 @@
 # master
 
+* Follow symlinks
+
 # 0.0.7
 
 * Fix: should not stat directories (thanks @ppcano)
